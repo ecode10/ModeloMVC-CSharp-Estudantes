@@ -1,0 +1,5 @@
+c:\users\mauriciojunior\documents\visual studio 2015\Projects\ModeloMVC\ModeloMVC.Lib\bin\Debug\ModeloMVC.Lib.dll
+c:\users\mauriciojunior\documents\visual studio 2015\Projects\ModeloMVC\ModeloMVC.Lib\bin\Debug\ModeloMVC.Lib.pdb
+c:\users\mauriciojunior\documents\visual studio 2015\Projects\ModeloMVC\ModeloMVC.Lib\obj\Debug\ModeloMVC.Lib.csprojResolveAssemblyReference.cache
+c:\users\mauriciojunior\documents\visual studio 2015\Projects\ModeloMVC\ModeloMVC.Lib\obj\Debug\ModeloMVC.Lib.dll
+c:\users\mauriciojunior\documents\visual studio 2015\Projects\ModeloMVC\ModeloMVC.Lib\obj\Debug\ModeloMVC.Lib.pdb
